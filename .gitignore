@@ -1,0 +1,11 @@
+/mreq
+/tdigest
+/dd
+/.vscode/
+*.o
+a.out
+/unit
+/draw/
+/script/
+/res/
+/test/
