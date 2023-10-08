@@ -1,6 +1,6 @@
 # M4: A Framework for Per-Flow Quantile Estimation
 
-**A full technical report will be available in several days.**
+**Compared to the submitted version, our full [technical report](./techinical-report.pdf) has additional experiments in section 5.2.**
 
 ## How to Run
 
