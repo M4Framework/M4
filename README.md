@@ -2,7 +2,7 @@
 
 ## Appendix of the Paper
 
-[Link](Appendix.pdf)
+[Link](appendix.pdf)
 
 ## How to Run
 
