@@ -1,9 +1,5 @@
 # M4: A Framework for Per-Flow Quantile Estimation
 
-## Appendix of the Paper
-
-[Link](appendix.pdf)
-
 ## How to Run
 
 Execute `make` in root directory and you'll get three executables `dd` `mreq` and `tdigest`.
